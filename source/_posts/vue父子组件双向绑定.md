@@ -21,6 +21,9 @@ demo: https://tataqiuqiu.github.io/demos/vue/test/dist/#/bb
   <div>result： <span v-html="doc"></span></div>
 </div>
 ```
+
+<!-- more -->
+
 ``` javascript
 import Child from "@/components/Bb-child.vue";
 export default {
@@ -35,7 +38,6 @@ export default {
   }
 };
 ```
-<!-- more -->
 
 [子组件代码](https://github.com/tataqiuqiu/demos/blob/master/vue/test/src/components/Bb-child.vue)
 

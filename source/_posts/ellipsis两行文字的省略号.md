@@ -8,6 +8,9 @@ categories:
 demo: https://tataqiuqiu.github.io/demos/vue/test/dist/#/2-line-ellipsis
 ---
 
+![](/images/css/ellipsis.png)
+
+<!-- more -->
 
 ``` html
 <div class="lastline-space-ellipsis js-toggle-box" title="你让我只 fdkfjkdsjfdsj dfjdsfadf 5555555 aaaaaa 显示2行就只显示2行啊，你让我只显示2行就只显示2行啊，你让我只显示2行就只显示2行啊" >
